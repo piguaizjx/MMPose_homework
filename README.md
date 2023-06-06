@@ -1,5 +1,11 @@
 # MMPose_homework
-Ear key point detection
+
+模型过大，无法上传，代码放在此处：
+
+链接：https://pan.baidu.com/s/1WZtTf7bs1DHdTQAzPfJAQw 
+
+提取码：jooo
+# 训练结果：
 目标检测（rtmdet_tiny）：
 
 <img width="295" alt="det_test" src="https://github.com/piguaizjx/MMPose_homework/assets/114277944/b9a3d7d7-6b38-400e-ab91-c77af0e0ae4e">
