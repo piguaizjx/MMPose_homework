@@ -2,7 +2,7 @@
 
 模型过大，无法上传，代码放在此处：
 
-链接：https://pan.baidu.com/s/1WZtTf7bs1DHdTQAzPfJAQw 
+链接：https://pan.baidu.com/s/1dBAfEZI6W5Du5ZHWk0Bq-A 
 
 提取码：jooo
 # 训练结果：
